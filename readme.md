@@ -33,7 +33,9 @@ To install the jupyter extension:
 
 ### Select your python kernel
 Open one of the notebooks.
-1. On the top-right corner of the notebook, it says Python and a number. Click it
-2. From the pop-up that opens, select your installed Python version
-3. Wait for Jupyter to finish the process
+Visual Studio should prompt you to install the required kernel. 
+If it does not do so automatically, try running one of the code cells.
+
+Follow the visual studio code instructions to install the kernel. 
+
 
